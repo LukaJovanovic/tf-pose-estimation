@@ -120,6 +120,7 @@ if __name__ == '__main__':
             if RW > N or LW > N:
                     hail_taxi(image)"""
             # for loop method instead
+            # defining boday parts to be used
             RW = 0
             LW = 0
             N = 0
